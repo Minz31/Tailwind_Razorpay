@@ -1,2 +1,2 @@
 # Tailwind_Razorpay
-Razorpay clone
+Hey there, This is Razorpay clone website using Tailwind CSS
